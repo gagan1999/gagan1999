@@ -1,6 +1,6 @@
 ## **Gagandeep Singh**
 
-💼 Work @ [**Fiserv**](https://www.fiserv.com/)<br>
+💼 Work @ [**SP Global**](https://www.spglobal.com/en)<br>
 🏠 Amritsar, Punjab, India<br>
 📧 Email: [gagandeepsingh516@ymail.com](mailto:gagandeepsingh516@ymail.com)<br>
 🌐 Website: [gagandeepsingh.com](https://github.com/gagan1999)<br>
