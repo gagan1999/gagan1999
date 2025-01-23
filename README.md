@@ -10,7 +10,6 @@
 **About:**
 
 - Full-stack developer
-- Coding lover
 - Coding since 2015
 - Feel free to ask for any help
 
@@ -19,8 +18,6 @@
 **Coding Ethics:**
 
 - Write clean & maintainable code.
-- Atomic git commits.
-- Semantic versioning.
 - Use fundamental design patterns.
 
 <br>
